@@ -2,8 +2,6 @@
 
 A simple web-based quiz application to test your English vocabulary knowledge.
 
-![Quiz Screenshot](./screenshots/preview.png)
-
 ---
 
 ## 📋 Table of Contents
@@ -32,9 +30,10 @@ A simple web-based quiz application to test your English vocabulary knowledge.
 
 ## 🌐 Demo
 
-**Live Demo:** [https://[your-username].github.io/VocabularyQuizGenerator](https://[your-username].github.io/VocabularyQuizGenerator)
+**Live Demo:** [https://Kanpat-Tant
+.github.io/VocabularyQuizGenerator](https://Kanpat-Tant
+.github.io/VocabularyQuizGenerator)
 
-*(Replace `[your-username]` with your GitHub username after deployment)*
 
 ---
 
