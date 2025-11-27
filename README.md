@@ -26,28 +26,9 @@ A simple web-based quiz application to test your English vocabulary knowledge.
 - ✅ **Responsive design** - works on desktop and mobile
 - ✅ **No installation required** - runs in any modern browser
 
----
-
-## 🌐 Demo
-
-**Live Demo:** [https://Kanpat-Tant
-.github.io/VocabularyQuizGenerator](https://Kanpat-Tant
-.github.io/VocabularyQuizGenerator)
-
-
----
-
 ## 💻 Installation
 
 ### Option 1: Clone from GitHub
-
-```bash
-# Clone the repository
-git clone https://github.com/[your-username]/VocabularyQuizGenerator.git
-
-# Navigate to the project folder
-cd VocabularyQuizGenerator/04_Implementation/src
-```
 
 ### Option 2: Download ZIP
 
@@ -201,8 +182,8 @@ This project is created for educational purposes as part of a Software Engineeri
 
 ## 👤 Author
 
-- **Name:** [ใส่ชื่อนักศึกษา]
-- **Student ID:** [ใส่รหัสนักศึกษา]
+- **Name:** Kanpat Tantiphaichit
+- **Student ID:** 1670703287
 - **Course:** Software Engineering Final Project
 
 ---
